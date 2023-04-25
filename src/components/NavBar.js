@@ -15,17 +15,17 @@ export default function NavBar(){
                         Arun Rowan
                     </NavLink>
                     <NavLink to="/post"
-                    className="inliinflex-flex items-center py-6 px-3 my-6 rounded text-red-200 hover:text-green-800"
+                    className="inflex-flex items-center py-6 px-3 my-6 rounded text-red-200 hover:text-blue-800 text-1xl tracking-widest"
                     activeClassName="text-red-100 bgv-red-700">
                         Blog Posts
                     </NavLink>
                     <NavLink to="/project"
-                    className="inliinflex-flex items-center py-6 px-3 my-6 rounded text-red-200 hover:text-green-800"
+                    className="inflex-flex items-center py-6 px-3 my-6 rounded text-red-200 hover:text-blue-800 text-1xl tracking-widest"
                     activeClassName="text-red-100 bgv-red-700">
                         Projects
                     </NavLink>
                     <NavLink to="/about"
-                    className="inliinflex-flex items-center py-6 px-3 my-6 rounded text-red-200 hover:text-green-800"
+                    className="inflex-flexitems-center py-6 px-3 my-6 rounded text-red-200 hover:text-blue-800 text-1xltracking-widest"
                     activeClassName="text-red-100 bgv-red-700">
                         About Me!
                     </NavLink>
